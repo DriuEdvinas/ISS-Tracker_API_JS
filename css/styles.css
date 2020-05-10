@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+#issMap {
+  position: absolute;
+  left: 15%;
+  height: 70%;
+  width: 70%;
+}
+h1,
+p {
+  margin: 20px;
+  text-align: center;
+  color: white;
+}
+body {
+  align-items: center;
+  width: 100%;
+}
+img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-size: cover;
+  z-index: -1;
+}
